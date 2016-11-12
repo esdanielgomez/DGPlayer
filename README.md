@@ -23,6 +23,6 @@ Presentación:
 Documento del proyecto:
   no disponible
   
-#Desarrolador:
+#Desarrollador:
 
 Daniel Gomez Jaramillo
