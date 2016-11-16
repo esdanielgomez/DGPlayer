@@ -26,3 +26,4 @@ Documento del proyecto:
 #Desarrollador:
 
 Daniel Gomez Jaramillo
+Universidad de Cuenca
