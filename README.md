@@ -15,13 +15,13 @@ Código fuente del proyecto:
   https://github.com/esdanielgomez/dgplayer
 
 Diapositivas de la presentación:
-  no disponible
+  http://www.slideshare.net/DanielGmez3/dgplayer
 
 Presentación: 
   https://youtu.be/9tauq4fzhCc
 
 Documento del proyecto:
-  no disponible
+  https://es.scribd.com/document/331334418/dgplayer
   
 #Desarrollador:
 
