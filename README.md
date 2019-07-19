@@ -1,4 +1,4 @@
-#DG PLAYER
+# DG PLAYER
 
 DG Player es una aplicación informática que permite a diversos usuarios la reproducción de canciones que estén almacenadas en uno o varios directorios previamente especificados. 
 
@@ -6,7 +6,7 @@ Por otro lado, DG Player permite la personalización de las interfaces gráficas
 
 DG Player fue programado bajo un paradigma orientado a objetos en el lenguaje de programación Java y con el estilo de la programación por capas. 
 
-#Enlaces de interes:
+## Enlaces de interes:
 
 Página web del repositorio: 
   http://goo.gl/PVMfL2
@@ -23,6 +23,8 @@ Presentación:
 Documento del proyecto:
   https://es.scribd.com/document/331334418/dgplayer
   
-#Desarrollador:
+## Desarrollador:
 
 Daniel Gomez Jaramillo
+
+daniel.gomez@ucuenca.edu.ec
